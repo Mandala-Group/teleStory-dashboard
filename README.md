@@ -15,9 +15,12 @@ To run the app, simply:
 The app should automatically run on `localhost:3000`
 
 ## Contribution
-
 All contributions are welcome :)
 
 Feel free to create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
 
 If you have any queries, reach out to [info@mandalagroup.org](mailto:info@mandalagroup.org)
+
+## Screengrab
+
+![Screen](https://github.com/Mandala-Group/teleStory-dashboard/raw/master/public/screen.jpeg)
